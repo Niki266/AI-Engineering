@@ -9,7 +9,7 @@ This repository contains various projects exploring AI and machine learning conc
 - **Fashion-MNIST**: Hands-on project with the Fashion-MNIST dataset for image classification.
 - **Deep Learning with PyTorch**: Implementation of a capstone project using PyTorch.
 
-## 🛠️ How to Use
+## How to Use
 ### Prerequisites
 - Python 3.8 or higher
 - Jupyter Notebook
